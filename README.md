@@ -1,8 +1,9 @@
-My name is Elouan GOUINGUENET.  
-I am a software & AI engineer
+Hi, I'm Elouan GOUINGUENET.
 
-Currently working as a Sage X3 technical consultant.  
-I'm currently learning Rust.  
+In daytime, I'm a Software engineer currently working on the ERP Sage X3.
+At night time, I turn into a passionate video games lover!
+
+Currently highly interested in Rust, TDD and gitflows!
 
 You can reach me at elouangouinguenet@yahoo.fr
 
