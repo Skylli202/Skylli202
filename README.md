@@ -1,14 +1,9 @@
 Hi, I'm Elouan GOUINGUENET.
 
-In daytime, I'm a Software engineer currently working on the ERP Sage X3.
+In daytime, I'm a Software engineer.<br/>
 At night time, I turn into a passionate video games lover!
 
-Currently highly interested in Rust, TDD and svelte/sveltekit! <br/>
-Other stack I love : 
-- Symfony
-- Vue.js
-
-I love optimizing my job with tooling perfectly configured to my needs like Linter, Test framework, pipeline and more.
+Currently highly interested in svelte/sveltekit! and currently learning Rust
 
 You can reach me at elouangouinguenet@yahoo.fr
 
