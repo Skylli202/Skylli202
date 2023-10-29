@@ -3,7 +3,8 @@ Hi, I'm Elouan GOUINGUENET.
 In daytime, I'm a Software engineer.<br/>
 At night time, I turn into a passionate video games lover!
 
-Currently highly interested in svelte/sveltekit! and currently learning Rust
+TypeScript / Svelte lover. Currently highly interested in Rust.
+I recently fall into the NeoVim trap and his endless configuration.
 
 You can reach me at elouangouinguenet@yahoo.fr
 
